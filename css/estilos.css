@@ -1,8 +1,26 @@
 body
 {
     color: rgb(253, 252, 250);
-    font-size: 1.5em;
-    background-color: blanchedalmond;
+    font-size: 16px;
+    background-color: rgb(199, 140, 51);
     text-align: center;
     font-family: "Helvetica";
+    padding: 0%;
+    margin: 0%;
+
+}
+#container
+
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border:1px solid #3653;
+    margin: auto;
+}
+
+
+#container h1
+{
+    font-size: 20px;
 }
